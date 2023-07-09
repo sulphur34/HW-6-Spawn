@@ -1,0 +1,3385 @@
+fileFormatVersion: 2
+guid: caa037abfa1d5b049a01691544c4ebfe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kyle Blackthorne_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 436
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.23763023, y: 0.0000007097111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -11, y: 21.5}
+        - {x: -11, y: -21.5}
+        - {x: 11, y: -21.5}
+        - {x: 11, y: 20.5}
+        - {x: 9, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeccc5a8e922bd741888540df6463625
+      internalID: -1199333446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 436
+        width: 37
+        height: 43
+      alignment: 9
+      pivot: {x: 0.13513514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -18.5, y: 21.5}
+        - {x: -18.5, y: -21.5}
+        - {x: 6.5, y: -21.5}
+        - {x: 18.5, y: -4.5}
+        - {x: 18.5, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1881ddcc1524804dacb46b42f11a9ef
+      internalID: 1201151204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10.5, y: 21.5}
+        - {x: -11.5, y: 20.5}
+        - {x: -11.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 11.5, y: 12.5}
+        - {x: 1.5, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80065ed1371e493448d1db76c9098c05
+      internalID: -460357501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30434784, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.5, y: 14.5}
+        - {x: 3.5, y: 21.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: -2.5, y: -20.5}
+        - {x: 1.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd91317f31b174a9f5c3d376a119df
+      internalID: 455457164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.5, y: 13.5}
+        - {x: 6.5, y: 21.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -11.5, y: 19.5}
+        - {x: -11.5, y: -21.5}
+        - {x: -2.5, y: -21.5}
+        - {x: -2.5, y: -20.5}
+        - {x: 1.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b08ca9b3a7ba44ab3c44a0d938c92b
+      internalID: -1231533577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -10.5, y: 21.5}
+        - {x: -11.5, y: 20.5}
+        - {x: -11.5, y: -21.5}
+        - {x: 11.5, y: -21.5}
+        - {x: 11.5, y: 14.5}
+        - {x: 2.5, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf03be45fefda54a957171e38bd0471
+      internalID: 376920293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e540ecfc0e184488598ef075a1a86b
+      internalID: 280780169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1061d033b1e0545be68e2dc9688d57
+      internalID: -204131867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 436
+        width: 26
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071d9619314e98847b0cdcbade128094
+      internalID: 2126263901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 436
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2547658e30c217440b74d22ed0c42a26
+      internalID: 1235760748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 436
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98979d8471dc98141b2d22bcab86b25a
+      internalID: 79110645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 436
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0.40000004, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674825e47854dce43b0069d4172b3a78
+      internalID: 379427439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 436
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848ef65d3249434cbbf8894034b9567
+      internalID: -767766485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 436
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1761a95345e50409d92e9bfed7785b
+      internalID: -423269729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 436
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce0704f9cb93374bacce7c390f5cb8c
+      internalID: 795039784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 436
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef63f4b919cb6418434022b7f42b4b
+      internalID: -287023281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c97372e3872f41a3a2f3fa66f924f
+      internalID: -1749855061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 374
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9927b6b4b8e9a488ada5aba0e804c1
+      internalID: -1366055813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_18
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 374
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.045454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2174685c5bdbe4f878d90234a83e50
+      internalID: -213819673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 374
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.125, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58c04676010c9743b5261c747bae527
+      internalID: -283538290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 374
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41666666, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2fcc1361fcb3248a08917eea69f87b
+      internalID: 906718484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 374
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cdbd8529b11e443b89ec7ea8ef9a88
+      internalID: -1823304531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_24
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 374
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: 0.65000004, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30, y: 21.5}
+        - {x: -30, y: -6.5}
+        - {x: -19, y: -21.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485286af24f4d4f4bacdb97b83094181
+      internalID: 1173481833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_26
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 374
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b338b98b2904342a3e9a0b2372f489
+      internalID: 310253867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 374
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c367d00178ba4baf10ead215b7427
+      internalID: -1999088467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 374
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5227273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354bd0597e7caeb478ee640eabbfdc03
+      internalID: 1265600657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 374
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41666666, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a962753d245ba02439e4b3de94c1fb17
+      internalID: -844628946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 374
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.41666666, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b576a9d4cc031749908ebf52d9acd6c
+      internalID: -652311394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 374
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.125, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8774b543593c49bf05f51f571942b
+      internalID: -124687790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 374
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.045454547, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eabb3524cd5b46a446d7cbd7d9b71
+      internalID: 391153222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_35
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 374
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0.045454547, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d03234a591ae4c88eb67c5a5969d3
+      internalID: 338702378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_36
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 374
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8035248fba010141b23d89dbc67b282
+      internalID: -1864939201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_37
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849be55806eed9746800d1231fd29126
+      internalID: 62961703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_38
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d89197d3c30148b5d0cdc05762ed0
+      internalID: 119845591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_39
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc278a27b2786e948bc86eed98a5c1d2
+      internalID: 1423928691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_40
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23108ed0a2a17744b4de7f93f154fbe
+      internalID: -1398707976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46210af590674479290c8e94abd176
+      internalID: -1719813974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_42
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 374
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a6483f8728b143ba1de8b18e8fefd
+      internalID: -789798597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_43
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0.11111111, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabc7f584726d4446b55054d8a4e24ba
+      internalID: 1489842606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_44
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 306
+        width: 10
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1f2814dd340f46a6dfa3726a1d69f
+      internalID: 535935457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 306
+        width: 13
+        height: 43
+      alignment: 9
+      pivot: {x: 0.07692308, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577a4a414587124f93b2879d48ac010
+      internalID: -848967864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 306
+        width: 13
+        height: 43
+      alignment: 9
+      pivot: {x: 0.15384616, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909ca5f19b2aa64d806ed4028a4975c
+      internalID: 1633909896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 306
+        width: 11
+        height: 43
+      alignment: 9
+      pivot: {x: 0.09090909, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218075f720adb144b6516478053b2ad
+      internalID: 1500307620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 306
+        width: 12
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f8dd0a4a2fc748b0c35debd798474
+      internalID: 127206592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_49
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 306
+        width: 13
+        height: 43
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed0dbb5d6e03c41b7e92c71aad6883
+      internalID: -1960925146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 15
+        height: 43
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44163674980bf884293325225cf83b1e
+      internalID: -228723702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 306
+        width: 16
+        height: 43
+      alignment: 9
+      pivot: {x: 0.375, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590063c04b1242f47bd560f0b883966f
+      internalID: -451564075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 306
+        width: 17
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3529412, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4f8cec1214824889b9819ea4ef2f9
+      internalID: 976223203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 306
+        width: 21
+        height: 48
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c620c8692cc455744ae7cc80b67a855a
+      internalID: 1224157041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_54
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 306
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d15f88dbe9ea458503a637828e5ba
+      internalID: 1106227670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 306
+        width: 23
+        height: 48
+      alignment: 9
+      pivot: {x: 0.30434784, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afb99dad4dab314db26d7e2cbbefefc
+      internalID: -282789489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_56
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 306
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.27272728, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b1daf066ff51043b308980d9a7b382
+      internalID: -1851422613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 306
+        width: 21
+        height: 48
+      alignment: 9
+      pivot: {x: 0.23809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0de66f1eb48d546a3fe75f86bdfc88
+      internalID: -636796209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 306
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.22727273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f911aca5afb64b4580a8cf04f698636
+      internalID: -83042192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 306
+        width: 25
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6cd2abfe472d44a7a261a68244e6a
+      internalID: -567374613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_60
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 306
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.23809524, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6c9bbb530cfa4caf9daa4b4050525
+      internalID: 194556090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 306
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21739131, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b296f94fc10f1f4493f2733ce8581aa
+      internalID: -27967984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 230
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f826503e89c241449827b33c84da9d5
+      internalID: -1439689722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_63
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 230
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b5ed5d8bb3b8149afb68264e77560e
+      internalID: 602186399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_64
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 230
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3d6d5180e822c439752eff42727e41
+      internalID: -696588317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 230
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81314be91eff464faffcd099163b127
+      internalID: -904077143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 230
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c359450ea92b24e8aa71ee94f2a3e8
+      internalID: 2128840481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 230
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073868a086e819418db1b7671ac71ab
+      internalID: 899754268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 230
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c653e448badf571419892ec326a67d50
+      internalID: -8049712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 230
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291f3b4c362e144cbf9b0ba2f9a3388
+      internalID: 1555278818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_70
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 230
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b23cb294cfea40bd82e258eec1772
+      internalID: 585833352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_71
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 230
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fde4f9942202142a7033bebae1ec41
+      internalID: -1937486095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_72
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 230
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275630fe0a878c346ad2991cb9912dae
+      internalID: 1282615919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_73
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 230
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b0d9734eb71d48a57c73df3c543be
+      internalID: -1589063840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 234
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89570b8da2e2ed24ea70257b9805bc17
+      internalID: -425587075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_75
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 238
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c12a82c67076141b0f5127e7657bcc
+      internalID: 1799655639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 234
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c679950f07eb047b0109bbbf3f2ea3
+      internalID: 2057380681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 230
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b128b4e94c6de4049975cfc4a85cc378
+      internalID: -197840892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_78
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 230
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fedaa672682284c8637285efc682f7
+      internalID: -1023244500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_79
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 230
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bff7f19ea55c4da3e547ee173279e
+      internalID: 1767763021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_80
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 230
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0427f4194cd17a4cb6c6609d0ddc8a4
+      internalID: -554135253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_81
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 230
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bceba4c4a0b143b0c379d07ef9af8
+      internalID: 933063444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_82
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 230
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be4cb16d04add47a9c3ec66e5d9571
+      internalID: 1531127936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_83
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 230
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594908909d3e5914ab6b2d0ae00e8e14
+      internalID: -951940508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251dc1c1879aa104baead5774cb4f4d7
+      internalID: -1827994167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 139
+        width: 20
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6627faab69996674898e1d103f2da4e2
+      internalID: 1164009779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 139
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e109b375b4d944a83e1629ab0239c
+      internalID: 1970476330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_87
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 139
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3181818, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26c106567062b64188b6980825fe3af
+      internalID: 69938552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 27
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4074074, y: -0.06818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e12dfd8f4660e34685f9064dc749fdb
+      internalID: -563907785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.55172414, y: -0.22500001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dcec763b524c04daf76db9a08c03cc
+      internalID: -655923521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_90
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 156
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355b3a0fad2c6d4c8f6ab7f9752e80b
+      internalID: -1596330117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 155
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.3478261, y: -0.36363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799e2727ca0ea94eb67257788dda97c
+      internalID: 470899686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_92
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 163
+        width: 16
+        height: 42
+      alignment: 9
+      pivot: {x: 0.125, y: -0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859da3151530cf147a4c772f21839ae8
+      internalID: 1515614872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 161
+        width: 15
+        height: 40
+      alignment: 9
+      pivot: {x: 0.06666667, y: -0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399906f34367d364ea8bdd69da9b3f13
+      internalID: -848778728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_94
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 157
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.25, y: -0.4390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80841fcd77880da4083c51f7e2b5bc82
+      internalID: -430764583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_95
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 155
+        width: 20
+        height: 41
+      alignment: 9
+      pivot: {x: 0.25, y: -0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd440b5939e4d4abedde759e623525
+      internalID: 1357146569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_96
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 152
+        width: 27
+        height: 43
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0.30232558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e20f582683ec4cb0b8703cb67b229
+      internalID: -1834236484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.1724138, y: -0.19512194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdcc0fe82e75024eac65074ab2f6fd2
+      internalID: -1959915218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 142
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.20833334, y: -0.078947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628d393dc758e3418212c736d93f3be
+      internalID: 1087097001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_99
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 139
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91ee4824e820bc4b9443149074b7a40
+      internalID: 1663779997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_100
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 139
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.36842105, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deb46f3b3b7cc148ba4d2042cdb7e11
+      internalID: -1116024252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_101
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 139
+        width: 18
+        height: 42
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4871d8c7448854aadb7a2adbd246e2
+      internalID: 109488910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 73
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055fd73acfa0b14f8489336e20ed477
+      internalID: 2060684105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_103
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 73
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e343c8cb4a0741b2255922f7c3853
+      internalID: -1652291144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_104
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 73
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5909091, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74e8e89a6a47b64ea7016d4bd7843e5
+      internalID: 1702263195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_105
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 77
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.73913044, y: -0.15384616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c54e2ead07f44ebf072cde8f6d5a7
+      internalID: 1247111584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_106
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 80
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7083334, y: -0.30434784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17333a708de24f544a86f244ded208f8
+      internalID: -1488676692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 73
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8518519, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74f56a1752bca44a461c6863099fa8
+      internalID: 1036493587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 73
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.8518519, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0d5f9d60dee1e489494efc1d4a987d
+      internalID: 1536999307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_109
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 73
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.875, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0117b4cb427aa4d91c5853ce518edf
+      internalID: 114085419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_110
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 73
+        width: 38
+        height: 22
+      alignment: 9
+      pivot: {x: 0.8947368, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3114665a74e11543b4248b6103cfd03
+      internalID: 1373583378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_111
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 73
+        width: 39
+        height: 14
+      alignment: 9
+      pivot: {x: 0.8974359, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87ef85cf63cca409146a78f44a19da
+      internalID: -1652390851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_112
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 73
+        width: 42
+        height: 9
+      alignment: 9
+      pivot: {x: 0.9047619, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3bad76fcae44745a5c2facbbc7be13
+      internalID: 637049845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_113
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 73
+        width: 42
+        height: 10
+      alignment: 9
+      pivot: {x: 0.9047619, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321d1bf658daf70498c383567f469ed0
+      internalID: -120212928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_114
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 73
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.875, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df17831aa27dfe41bc88fa8d613e1fe
+      internalID: -1102364325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_115
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 73
+        width: 25
+        height: 18
+      alignment: 9
+      pivot: {x: 0.84, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09d4bf99200b242aa05846cf332488
+      internalID: -550674079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_116
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 73
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7777778, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7074aaf9355364b98eaaa4b5f7290f
+      internalID: 1383930176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_117
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 73
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972a85d02040b7746b4d0e6b7b528c4d
+      internalID: -603700258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_118
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 73
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.22222222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29fc384750aac48b8c89502eaaf50d
+      internalID: 1630520794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_119
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 73
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2048745eaba541b1c40d3b909867a
+      internalID: -296521461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_120
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 73
+        width: 21
+        height: 27
+      alignment: 9
+      pivot: {x: 0.23809524, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b309ae7d7f196d4bae0f27ff2ab50c2
+      internalID: 1451994477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_121
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 73
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.2, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd423858d2be59246ad0943f263ffc11
+      internalID: 325719256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_122
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 73
+        width: 17
+        height: 36
+      alignment: 9
+      pivot: {x: 0.23529412, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ba7be1ba726d24782081590f6f90f8
+      internalID: 1125637803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_123
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 73
+        width: 14
+        height: 38
+      alignment: 9
+      pivot: {x: 0.21428573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ba49399b83d440be303bd38668429
+      internalID: 2066101381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_124
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 73
+        width: 12
+        height: 40
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea680a5913969749bb8d22ebc292f31
+      internalID: -338545800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_125
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 73
+        width: 10
+        height: 41
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300fd86fc83d1e748ad1a735b382af65
+      internalID: 1288094432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_126
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 73
+        width: 9
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a50d69c263e04984101b2db4ec8c7
+      internalID: 158210369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_127
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4746d13a3f2656478fea31dd22f8101
+      internalID: -686580397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_128
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0de096bf0c8141ae6a76f3ffc5079
+      internalID: 692140215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 12
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575b90c2c34b35849b378dd085db3724
+      internalID: 1980289480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_130
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fd76934b1f01d4da20a05112501f53
+      internalID: 205408394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_131
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 12
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931fe5211e40ff47acb425043598bf1
+      internalID: -1516246360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_132
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 12
+        width: 20
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555cea4553984c40bef3d86a5b7428d
+      internalID: 1364524107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12
+        width: 20
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70c2e70b3cf2d4fb0a14105bb683c0
+      internalID: 894115027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_134
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb18efcbe66a084885a3eb09319ae84
+      internalID: 324024640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_135
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 12
+        width: 21
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c419dd8c874d50e45bb8bb428dae244d
+      internalID: 187014453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_136
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 13
+        width: 23
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432bab74fc61d344aae42fd47e59021
+      internalID: -1690864607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_137
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2857143, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71db2417c129b644969094aade7da8b
+      internalID: -1764756026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_138
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 12
+        width: 21
+        height: 42
+      alignment: 9
+      pivot: {x: 0.33333334, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6154765bf7b32042a4e10ecffe1fb95
+      internalID: 1811671351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_139
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 12
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2631579, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f7240cbff4304c9e430df0029854b
+      internalID: -2137166326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_140
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 12
+        width: 16
+        height: 43
+      alignment: 9
+      pivot: {x: 0.0625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655902b68da56af4ba1d712a8ec82489
+      internalID: -1826635191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_141
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 12
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.15, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed278114352ea4f86f712364a8e5e6
+      internalID: 1288272825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_142
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 12
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01938fc7c7be86046a1ce0026f8ffd04
+      internalID: 1490683300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_143
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 12
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.30769232, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e5fd5dc727e94b9b104d9e75e6ec3
+      internalID: -1537760339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_144
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 12
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.26086956, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4473f6b594b184f94f0ea858371be6
+      internalID: 665886298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_145
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 19
+        height: 43
+      alignment: 9
+      pivot: {x: 0.21052632, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23de3293e7b808429c758c7e53b00a7
+      internalID: -1733476434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_146
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 12
+        width: 15
+        height: 43
+      alignment: 9
+      pivot: {x: 0.13333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce96dc99775db4f84be3dc3d96f4e9
+      internalID: -842796648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_147
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 12
+        width: 14
+        height: 43
+      alignment: 9
+      pivot: {x: 0.14285715, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc498a484e612b43bee6b97c445b042
+      internalID: 1452012205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_148
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 12
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed298d0fb3d7e46a67ba1e72f71402
+      internalID: -995574887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_149
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 12
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a17282b598a5414ebf2ad7cf42988f3
+      internalID: -1294519400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kyle Blackthorne_150
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 12
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e0def8a9c3494dac0967266a1208b
+      internalID: -1954716297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kyle Blackthorne_0: -1199333446
+      Kyle Blackthorne_1: 1201151204
+      Kyle Blackthorne_10: 79110645
+      Kyle Blackthorne_100: -1116024252
+      Kyle Blackthorne_101: 109488910
+      Kyle Blackthorne_102: 2060684105
+      Kyle Blackthorne_103: -1652291144
+      Kyle Blackthorne_104: 1702263195
+      Kyle Blackthorne_105: 1247111584
+      Kyle Blackthorne_106: -1488676692
+      Kyle Blackthorne_107: 1036493587
+      Kyle Blackthorne_108: 1536999307
+      Kyle Blackthorne_109: 114085419
+      Kyle Blackthorne_11: 379427439
+      Kyle Blackthorne_110: 1373583378
+      Kyle Blackthorne_111: -1652390851
+      Kyle Blackthorne_112: 637049845
+      Kyle Blackthorne_113: -120212928
+      Kyle Blackthorne_114: -1102364325
+      Kyle Blackthorne_115: -550674079
+      Kyle Blackthorne_116: 1383930176
+      Kyle Blackthorne_117: -603700258
+      Kyle Blackthorne_118: 1630520794
+      Kyle Blackthorne_119: -296521461
+      Kyle Blackthorne_12: -767766485
+      Kyle Blackthorne_120: 1451994477
+      Kyle Blackthorne_121: 325719256
+      Kyle Blackthorne_122: 1125637803
+      Kyle Blackthorne_123: 2066101381
+      Kyle Blackthorne_124: -338545800
+      Kyle Blackthorne_125: 1288094432
+      Kyle Blackthorne_126: 158210369
+      Kyle Blackthorne_127: -686580397
+      Kyle Blackthorne_128: 692140215
+      Kyle Blackthorne_129: 1980289480
+      Kyle Blackthorne_13: -423269729
+      Kyle Blackthorne_130: 205408394
+      Kyle Blackthorne_131: -1516246360
+      Kyle Blackthorne_132: 1364524107
+      Kyle Blackthorne_133: 894115027
+      Kyle Blackthorne_134: 324024640
+      Kyle Blackthorne_135: 187014453
+      Kyle Blackthorne_136: -1690864607
+      Kyle Blackthorne_137: -1764756026
+      Kyle Blackthorne_138: 1811671351
+      Kyle Blackthorne_139: -2137166326
+      Kyle Blackthorne_14: 795039784
+      Kyle Blackthorne_140: -1826635191
+      Kyle Blackthorne_141: 1288272825
+      Kyle Blackthorne_142: 1490683300
+      Kyle Blackthorne_143: -1537760339
+      Kyle Blackthorne_144: 665886298
+      Kyle Blackthorne_145: -1733476434
+      Kyle Blackthorne_146: -842796648
+      Kyle Blackthorne_147: 1452012205
+      Kyle Blackthorne_148: -995574887
+      Kyle Blackthorne_149: -1294519400
+      Kyle Blackthorne_15: -287023281
+      Kyle Blackthorne_150: -1954716297
+      Kyle Blackthorne_16: -1749855061
+      Kyle Blackthorne_17: -1366055813
+      Kyle Blackthorne_18: -213819673
+      Kyle Blackthorne_19: -283538290
+      Kyle Blackthorne_2: -460357501
+      Kyle Blackthorne_20: 906718484
+      Kyle Blackthorne_21: 1631942439
+      Kyle Blackthorne_22: -1823304531
+      Kyle Blackthorne_23: -1127121042
+      Kyle Blackthorne_24: 1173481833
+      Kyle Blackthorne_25: -1403811431
+      Kyle Blackthorne_26: 310253867
+      Kyle Blackthorne_27: -1968483196
+      Kyle Blackthorne_28: -1999088467
+      Kyle Blackthorne_29: 875463033
+      Kyle Blackthorne_3: 455457164
+      Kyle Blackthorne_30: 1265600657
+      Kyle Blackthorne_31: -844628946
+      Kyle Blackthorne_32: -652311394
+      Kyle Blackthorne_33: -124687790
+      Kyle Blackthorne_34: 391153222
+      Kyle Blackthorne_35: 338702378
+      Kyle Blackthorne_36: -1864939201
+      Kyle Blackthorne_37: 62961703
+      Kyle Blackthorne_38: 119845591
+      Kyle Blackthorne_39: 1423928691
+      Kyle Blackthorne_4: -1231533577
+      Kyle Blackthorne_40: -1398707976
+      Kyle Blackthorne_41: -1719813974
+      Kyle Blackthorne_42: -789798597
+      Kyle Blackthorne_43: 1489842606
+      Kyle Blackthorne_44: 535935457
+      Kyle Blackthorne_45: -848967864
+      Kyle Blackthorne_46: 1633909896
+      Kyle Blackthorne_47: 1500307620
+      Kyle Blackthorne_48: 127206592
+      Kyle Blackthorne_49: -1960925146
+      Kyle Blackthorne_5: 376920293
+      Kyle Blackthorne_50: -228723702
+      Kyle Blackthorne_51: -451564075
+      Kyle Blackthorne_52: 976223203
+      Kyle Blackthorne_53: 1224157041
+      Kyle Blackthorne_54: 1106227670
+      Kyle Blackthorne_55: -282789489
+      Kyle Blackthorne_56: -1851422613
+      Kyle Blackthorne_57: -636796209
+      Kyle Blackthorne_58: -83042192
+      Kyle Blackthorne_59: -567374613
+      Kyle Blackthorne_6: 280780169
+      Kyle Blackthorne_60: 194556090
+      Kyle Blackthorne_61: -27967984
+      Kyle Blackthorne_62: -1439689722
+      Kyle Blackthorne_63: 602186399
+      Kyle Blackthorne_64: -696588317
+      Kyle Blackthorne_65: -904077143
+      Kyle Blackthorne_66: 2128840481
+      Kyle Blackthorne_67: 899754268
+      Kyle Blackthorne_68: -8049712
+      Kyle Blackthorne_69: 1555278818
+      Kyle Blackthorne_7: -204131867
+      Kyle Blackthorne_70: 585833352
+      Kyle Blackthorne_71: -1937486095
+      Kyle Blackthorne_72: 1282615919
+      Kyle Blackthorne_73: -1589063840
+      Kyle Blackthorne_74: -425587075
+      Kyle Blackthorne_75: 1799655639
+      Kyle Blackthorne_76: 2057380681
+      Kyle Blackthorne_77: -197840892
+      Kyle Blackthorne_78: -1023244500
+      Kyle Blackthorne_79: 1767763021
+      Kyle Blackthorne_8: 2126263901
+      Kyle Blackthorne_80: -554135253
+      Kyle Blackthorne_81: 933063444
+      Kyle Blackthorne_82: 1531127936
+      Kyle Blackthorne_83: -951940508
+      Kyle Blackthorne_84: -1827994167
+      Kyle Blackthorne_85: 1164009779
+      Kyle Blackthorne_86: 1970476330
+      Kyle Blackthorne_87: 69938552
+      Kyle Blackthorne_88: -563907785
+      Kyle Blackthorne_89: -655923521
+      Kyle Blackthorne_9: 1235760748
+      Kyle Blackthorne_90: -1596330117
+      Kyle Blackthorne_91: 470899686
+      Kyle Blackthorne_92: 1515614872
+      Kyle Blackthorne_93: -848778728
+      Kyle Blackthorne_94: -430764583
+      Kyle Blackthorne_95: 1357146569
+      Kyle Blackthorne_96: -1834236484
+      Kyle Blackthorne_97: -1959915218
+      Kyle Blackthorne_98: 1087097001
+      Kyle Blackthorne_99: 1663779997
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
