@@ -17,7 +17,7 @@ public class Controls : MonoBehaviour
     private int _isArmedIndex;
     private int _moveXIndex;
     private int _damageIndex;
-    private bool _isFliped;
+    private bool _isFlip;
     private float _direction;
 
     private void Start()
@@ -27,7 +27,7 @@ public class Controls : MonoBehaviour
         _isArmedIndex = Animator.StringToHash(IsArmed);
         _moveXIndex = Animator.StringToHash(MoveX);
         _damageIndex = Animator.StringToHash(Damage);
-        _isFliped = false;
+        _isFlip = false;
     }
 
     private void Update()
@@ -83,16 +83,16 @@ public class Controls : MonoBehaviour
 
     private void Flip()
     {
-        Debug.Log(_isFliped + " - " + _direction);
-        if (_isFliped == false && _direction == -1)
+        Debug.Log(_isFlip + " - " + _direction);
+        if (_isFlip == false && _direction == -1)
         {
             transform.Rotate(0, 180, 0);
-            _isFliped = true;
+            _isFlip = true;
         }
-        else if (_isFliped && _direction == 1)
+        else if (_isFlip && _direction == 1)
         {
             transform.Rotate(0, -180, 0);
-            _isFliped = false;
+            _isFlip = false;
         }
     }
 

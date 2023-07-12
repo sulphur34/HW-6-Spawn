@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1395558548258098212}
   - component: {fileID: 1395558548258098215}
   m_Layer: 0
-  m_Name: GragOhr Green
+  m_Name: GragOhr
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

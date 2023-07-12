@@ -1,10 +1,13 @@
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
-{        
-    private void Update()
+{
+    private float _timeToDestroy;
+
+    private void Start()
     {
-        Destroy(gameObject, 2);
+        _timeToDestroy = 2;
+        Destroy(gameObject, _timeToDestroy);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

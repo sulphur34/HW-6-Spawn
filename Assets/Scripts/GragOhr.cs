@@ -16,7 +16,7 @@ public class GragOhr : MonoBehaviour
     private int _moveXIndex;
     private int _shootRangeIndex;
     private int _deadIndex;
-    private bool _isFliped;
+    private bool _isFlip;
     private float _direction;
 
     private void Awake()
@@ -84,15 +84,15 @@ public class GragOhr : MonoBehaviour
 
     private void Flip()
     {
-        if (_isFliped == false && _direction == -1)
+        if (_isFlip == false && _direction == -1)
         {
             transform.Rotate(0, 180, 0);
-            _isFliped = true;
+            _isFlip = true;
         }
-        else if (_isFliped && _direction == 1)
+        else if (_isFlip && _direction == 1)
         {
             transform.Rotate(0, -180, 0);
-            _isFliped = false;
+            _isFlip = false;
         }
     }
 }
