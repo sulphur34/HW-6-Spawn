@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 [RequireComponent(typeof(Animator))]
@@ -50,7 +51,7 @@ public class GragOhr : MonoBehaviour
     {
         string playerTag = "Player";
 
-        var player = GameObject.FindGameObjectWithTag(playerTag);
+        var player = FindObjectOfType(typeof(Controls)).GameObject();
 
         if (player != null)
         {
